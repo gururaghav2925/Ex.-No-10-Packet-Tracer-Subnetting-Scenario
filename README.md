@@ -113,7 +113,22 @@ ________________________________________<br>
 ________________________________________<br>
 # Output (Attach Screenshots)
 •	show ip interface brief on R1 and R2<br>
+
+<img width="665" height="651" alt="image" src="https://github.com/user-attachments/assets/55f5d0f4-6186-4d13-8193-124b7a470079" />
+
+
+
+<img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/e78b6a58-5fcb-4ad1-a4df-920c4267c727" />
+
+
 •	Successful pings PC ↔ PC<br>
+
+<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/fb17d354-66d1-40b9-9351-0b880478adb0" />
+
+
+
+<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/8ce4556c-2a28-4b93-8694-487958a574b5" />
+
 ________________________________________<br>
 # Result
 The IPv4 subnetting scheme was successfully designed and implemented. Routers, switches, and PCs were configured with correct addressing. Connectivity within LANs and across WAN was verified.
